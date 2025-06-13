@@ -6,8 +6,8 @@ I love turning designs into real, responsive, and user-friendly web apps.
 
 ---
 
-### 📎 Portfolio
-🔗 [View My Work](https://github.com/riya1807pro?tab=repositories)
+### 📎 View My Work
+🔗 [Projects](https://github.com/riya1807pro?tab=repositories)
 
 ---
 
@@ -63,7 +63,7 @@ I love turning designs into real, responsive, and user-friendly web apps.
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/riya-kaushik-a0014b319)
-- 🐙 [GitHub](https://github.com/riya1807pro)
+- 🐙 [Email](riyakaushik6410@gmail.com)
 
 ---
 
