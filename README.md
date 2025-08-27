@@ -1,71 +1,72 @@
-# 🚀 Hi, I'm Riya Kaushik — Frontend Developer | React Enthusiast | Tech Explorer
+# 🚀 Hi, I'm Riya Kaushik — Frontend Developer | DSA & Web Development Enthusiast
 
-👩‍💻 I'm a passionate Frontend Developer currently pursuing a Diploma in Computer Science at **GBN Govt. Polytechnic, Nilokheri**.
-
-I love turning designs into real, responsive, and user-friendly web apps. Currently exploring **Full Stack Development (Node.js, Express, MongoDB)** along with strengthening my **Data Structures & Algorithms in Javascript**.  
-Actively looking for **remote internships** to build scalable products and enhance my skills.
-
----
-
-Ki## ✨ About Me
-- 💡 Passionate about building scalable, maintainable web apps with clean UI & strong UX.
-- 🚀 Love transforming complex ideas into functional, performant products.
-- 🧠 Constantly learning full stack development (Node.js, Express, MongoDB) & improving DSA in C++.
-- 🎯 Actively seeking remote internships to solve real-world problems & grow as a software developer.
+📍 Karnal, Haryana  
+📧 [riyakaushik6410@gmail.com](mailto:riyakaushik6410@gmail.com)  
+📱 +91 89309 42202  
+🌐 [GitHub](https://github.com/riya1807pro) • [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • [Portfolio](https://riya-kaushik-portfolio.vercel.app) • [LeetCode](https://leetcode.com/u/Riya_Kaushik_1807)
 
 ---
 
-## 🛠️ Tech Stack & Tools
-- **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
-- **State Management:** Redux Toolkit
-- **UI & Animation:** Shadcn UI, Framer Motion
-- **Backend Basics:** Node.js, Express, REST APIs
-- **Databases:** MongoDB (learning)
-- **Version Control & Deployment:** Git, GitHub, Vercel
-- **Other:** Firebase, VS Code, DSA(C++,Javascript)
+## ✨ Summary
+
+Aspiring **Frontend Developer** and final-year Computer Science Diploma student with hands-on experience in **ReactJS, NextJS, and modern UI development**. Built and deployed multiple web projects, solved 70+ DSA problems, and strengthened problem-solving and logical reasoning.
+
+---
+
+## 🛠️ Programming Skills
+
+- **Languages:** JavaScript (ES6+), TypeScript, C  
+- **Frameworks & Libraries:** React.js, Redux Toolkit, Next.js, Tailwind CSS  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools & Platforms:** Git, GitHub, Vercel, Vite  
+- **Core Concepts:** OOPs, DBMS, Data Structures & Algorithms, Operating Systems, Computer Networks  
 
 ---
 
 ## 🚀 Featured Projects
-### 🔥 Crypto Tracker Dashboard
-Real-time dashboard showing top 5 coins with color-coded trends, sorting, filtering, and mini charts.
-- **Tech:** React, Redux Toolkit, Tailwind CSS, Framer Motion
-- **Live:** [View Project](https://cryptotracke.vercel.app/)
-- **Code:** [GitHub Repo](https://github.com/riya1807pro/crypto-tracker)
 
-### ⭐ Pokémon Explorer
-Displays 150 Pokémon with search, type filter, and responsive cards UI.
-- **Tech:** React, Axios, Tailwind CSS
-- **Live:** [View Project](https://pokemon-app-iota-ochre.vercel.app/)
-- **Code:** [GitHub Repo](https://github.com/riya1807pro/pokemon_app)
+### 🔹 Data Sync Dashboard
+- **Tech:** React, Next.js, TypeScript, Tailwind CSS  
+- Developed a personalized content dashboard to track and interact with data dynamically.  
+- Integrated **News API** and **TMDB API** for news and movies.  
+- Implemented personalized theme and **RTK for state management**.  
+- **Live:** [Live Link](https://datasync-dashboard.vercel.app/) • **Code:** [GitHub Repo](https://github.com/riya1807pro/datasync-dashboard)
 
-### ✅ Habit Tracker
-Tracks daily habits with streaks, reset feature, and minimal UI.
-- **Tech:** React, Redux Toolkit, Toastify, Tailwind CSS
-- **Live:** [View Project](https://habits-tracker-eosin.vercel.app/)
-- **Code:** [GitHub Repo](https://github.com/riya1807pro/habits_tracker)
+### 🔹 Personal Portfolio
+- **Tech:** Next.js, Tailwind CSS, Framer Motion  
+- Built a full-stack responsive portfolio website to showcase projects and skills.  
+- Integrated backend for contact form functionality.  
+- **Live:** [Live Link](https://riya-kaushik-portfolio.vercel.app) • **Code:** [GitHub Repo](https://github.com/riya1807pro/riya-kaushik-portfolio)
 
-### 🔐 NextAuth Auth App
-Handles secure sign-in/sign-out sessions with NextAuth.
-- **Tech:** Next.js, NextAuth, Tailwind CSS
--  **Live:** [View Project](https://nextjs-auth-taupe.vercel.app/)
-- **Code:** [GitHub Repo](https://github.com/riya1807pro/nextjs_auth)
+---
 
-### 📝 Posts CRUD App
-Simple app to add, delete, edit posts with local storage persistence.
-- **Tech:** React, Redux Toolkit, Tailwind CSS
-- **Live:** [View Project](https://redux-posts-app-lake.vercel.app/)
-- **Code:** [GitHub Repo](https://redux-posts-app-lake.vercel.app/)
+## 🧠 Problem-Solving
 
-### 💻 Personal Portfolio
-Responsive portfolio built from scratch with Next.js, Tailwind CSS, Shadcn UI & Framer Motion.
-- **Live:** [View Portfolio](https://riya-kaushik-portfolio.vercel.app)
-- **Code:** [GitHub Repo](https://github.com/riya1807pro/riya-kaushik-portfolio)
+- Solved 70+ DSA problems covering arrays, strings, stacks, linked lists, and more.  
+- Strong grasp of patterns: Sliding Window, Two Pointers, Recursion, Slow & Fast pointers.  
+- Regular practice improved logical reasoning, problem-solving speed, and accuracy.
+
+---
+
+## 🎓 Education
+
+**GBN Govt. Polytechnic, Nilokheri, Haryana**  
+Diploma in Computer Engineering, CGPA: 8.8 (till 4th sem)  
+Sep 2023 – June 2025  
+- Merit Scholarship – Awarded in 1st, 2nd & 3rd Semesters.
+
+---
+
+## 🌐 Languages
+
+- **English:** Professional Working Proficiency  
+- **Hindi:** Native / Fluent
 
 ---
 
 ## 📫 Let's Connect
-✉️ [Email](mailto:riyakaushik6410@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • 🐙 [Portfolio](https://riya-kaushik-portfolio.vercel.app/)
+
+✉️ [Email](mailto:riyakaushik6410@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • 🐙 [Portfolio](https://riya-kaushik-portfolio.vercel.app) • 🖥️ [GitHub](https://github.com/riya1807pro) • [LeetCode](https://leetcode.com/u/Riya_Kaushik_1807)
 
 ⭐ Thanks for visiting my GitHub!  
-🤝 Always up for collaborations, learning, and growing together 🚀
+🤝 Always open to collaborations, learning, and growing together 🚀
